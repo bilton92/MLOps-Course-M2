@@ -206,4 +206,4 @@ marimo/_static/
 marimo/_lsp/
 __marimo__/
 
-model.safetensors
+labs/Lab2_SA_with_HuggingFace/my_model/model.safetensors
