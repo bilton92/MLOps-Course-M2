@@ -2,7 +2,7 @@
 __pycache__/
 *.py[codz]
 *$py.class
-
+*.safetensors
 # C extensions
 *.so
 hide/
@@ -205,5 +205,3 @@ cython_debug/
 marimo/_static/
 marimo/_lsp/
 __marimo__/
-
-labs/Lab2_SA_with_HuggingFace/my_model/model.safetensors
