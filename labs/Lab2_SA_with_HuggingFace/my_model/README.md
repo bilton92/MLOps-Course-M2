@@ -16,13 +16,13 @@ should probably proofread and complete it, then remove this comment. -->
 
 This model is a fine-tuned version of [distilbert-base-uncased](https://huggingface.co/distilbert-base-uncased) on an unknown dataset.
 It achieves the following results on the evaluation set:
-- eval_loss: 0.6955
-- eval_model_preparation_time: 0.0012
-- eval_accuracy: 0.4733
-- eval_f1: 0.6376
-- eval_runtime: 86.6124
-- eval_samples_per_second: 3.464
-- eval_steps_per_second: 0.219
+- eval_loss: 0.6908
+- eval_model_preparation_time: 0.0056
+- eval_accuracy: 0.5033
+- eval_f1: 0.6667
+- eval_runtime: 175.2906
+- eval_samples_per_second: 1.711
+- eval_steps_per_second: 0.108
 - step: 0
 
 ## Model description

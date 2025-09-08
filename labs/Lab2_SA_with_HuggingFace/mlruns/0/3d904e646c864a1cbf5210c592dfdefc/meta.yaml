@@ -1,0 +1,14 @@
+artifact_uri: file:///home/bilou/MLOps-Course-M2/labs/Lab2_SA_with_HuggingFace/mlruns/0/3d904e646c864a1cbf5210c592dfdefc/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 3d904e646c864a1cbf5210c592dfdefc
+run_name: capable-auk-759
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757321146387
+status: 1
+tags: []
+user_id: bilou
